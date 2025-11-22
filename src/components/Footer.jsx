@@ -4,7 +4,7 @@ export default function Footer() {
             <div className="container">
                 <div className="footer-content">
                     <div className="footer-brand">
-                        <h3>Flowbotics <span className="text-gradient">AI</span></h3>
+                        <h3>Flowbotic <span className="text-gradient">AI</span></h3>
                         <p>Intelligent Automation for the Future of Business</p>
                     </div>
                     <div className="footer-links">
@@ -23,7 +23,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="footer-bottom">
-                    <p>&copy; {new Date().getFullYear()} Flowbotics AI. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Flowbotic AI. All rights reserved.</p>
                 </div>
             </div>
             <style>{`

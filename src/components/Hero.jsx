@@ -8,7 +8,7 @@ export default function Hero({ onOpenContact }) {
           Intelligent Automation for the <span className="text-gradient">Future of Business</span>
         </h1>
         <p className="hero-subtitle">
-          Flowbotics AI helps businesses harness the power of artificial intelligence to accelerate growth, streamline operations, and deliver superior customer experiences.
+          Flowbotic AI helps businesses harness the power of artificial intelligence to accelerate growth, streamline operations, and deliver superior customer experiences.
         </p>
         <div className="hero-actions">
           <button className="btn btn-primary" onClick={onOpenContact}>Get Started</button>

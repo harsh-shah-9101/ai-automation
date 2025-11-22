@@ -12,7 +12,7 @@ export default function WhyChooseUs() {
   return (
     <section id="why-us" className="section">
       <div className="container">
-        <h2 className="text-center">Why Businesses Choose <span className="text-gradient">Flowbotics AI</span></h2>
+        <h2 className="text-center">Why Businesses Choose <span className="text-gradient">Flowbotic AI</span></h2>
         <div className="grid grid-2" style={{ marginTop: '3rem' }}>
           {reasons.map((reason, index) => (
             <div key={index} className="glass-card reason-card">

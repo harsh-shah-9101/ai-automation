@@ -13,7 +13,7 @@ const SplineHero = ({ onOpenContact }) => {
             <div className="relative z-10 h-full flex flex-col justify-center px-6 md:px-12 lg:px-24 pointer-events-none">
                 <div className="max-w-3xl glass-card p-8 rounded-3xl animate-float pointer-events-auto">
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-                        Flowbotics <span className="text-gradient">AI</span>
+                        Flowbotic <span className="text-gradient">AI</span>
                     </h1>
                     <p className="text-xl md:text-2xl text-secondary-900/80 mb-8 font-light">
                         Intelligent Automation for the Future of Business

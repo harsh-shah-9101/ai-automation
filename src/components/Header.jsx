@@ -3,7 +3,7 @@ export default function Header({ onOpenContact }) {
     <header className="header">
       <div className="container header-container">
         <div className="logo">
-          Flowbotics <span className="text-gradient">AI</span>
+          Flowbotic <span className="text-gradient">AI</span>
         </div>
         <nav className="nav">
           <a href="#overview" className="nav-link">Overview</a>
